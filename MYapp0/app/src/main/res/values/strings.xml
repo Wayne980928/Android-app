@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MYapp0</string>
+    <string name="action_settings">setting</string>
+    <string name="button_text">Start</string>
+    <string name="message_text">Puzzle Game</string>
+    <string name="SendButton">Go to the calendar</string>
+    <string name="sub">Level</string>
+    <string name="return_sub">return</string>
+    <string name="Menu_text">Menu</string>
+</resources>
